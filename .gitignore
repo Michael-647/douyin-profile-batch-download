@@ -1,0 +1,29 @@
+# Private runtime data
+cookies*.json
+*config*.yml
+*config*.yaml
+*.db
+*.sqlite*
+*.log
+*.pid
+download_manifest.jsonl
+
+# Downloaded media and metadata
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.m4v
+*_data.json
+Downloaded/
+downloads/
+runtime/
+
+# Local environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db

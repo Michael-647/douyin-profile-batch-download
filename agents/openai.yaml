@@ -1,0 +1,5 @@
+﻿interface:
+  display_name: "抖音主页批量下载"
+  short_description: "自动抓取抖音主页作品、断点续传，并按固定数量安全分批整理"
+  default_prompt: "使用 $douyin-profile-batch-download 下载一个抖音用户主页的全部作品，并按每 50 个整理。"
+
